@@ -21,10 +21,10 @@ None
 Код: 500
 
 Запрос:
-{"expression": "2+2*2"}
+{"expression": "(((2+2)"}
 Ответ:
-{"result": "6"}
-Код: 200
+{"error": "Expression is not valid"}
+Код: 500
 
 # Запуск проекта
 
