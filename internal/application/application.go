@@ -1,7 +1,7 @@
 package application
 
 import (
-	"../../pkg/calculation"
+	"Go_Yandex_Lyceum/pkg/calculation"
 	"bufio"
 	"encoding/json"
 	"fmt"
