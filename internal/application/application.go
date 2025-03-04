@@ -1,10 +1,10 @@
 package application
 
 import (
-	"Go_Yandex_Lyceum/pkg/calculation"
 	"bufio"
 	"encoding/json"
 	"fmt"
+	"github.com/kirill944/Go_Yandex_Lyceum/pkg/calculation"
 	"io/ioutil"
 	"log"
 	"net/http"

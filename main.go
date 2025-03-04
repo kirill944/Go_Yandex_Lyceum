@@ -1,6 +1,6 @@
 package main
 
-import "Go_Yandex_Lyceum/internal/application"
+import "github.com/kirill944/Go_Yandex_Lyceum/internal/application"
 
 func main() {
 	app := application.New()
